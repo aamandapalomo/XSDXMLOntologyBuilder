@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bindings version="3.0" xmlns="https://jakarta.ee/xml/ns/jaxb">
+  <!--
+
+Este archivo ha sido generado por Eclipse Implementation of JAXB v3.0.0 
+Visite https://eclipse-ee4j.github.io/jaxb-ri 
+Todas las modificaciones realizadas en este archivo se perderán si se vuelve a compilar el esquema de origen. 
+Generado el: 2024.05.09 a las 09:10:52 AM CEST 
+
+  -->
+  <bindings scd="x-schema::tns" xmlns:tns="edu.upc.dmag">
+    <schemaBindings map="false">
+      <package name="org.example.requirements"/>
+    </schemaBindings>
+    <bindings scd="tns:Requirements">
+      <class ref="org.example.requirements.Requirements"/>
+    </bindings>
+    <bindings scd="~tns:DocumentationRequirement">
+      <class ref="org.example.requirements.DocumentationRequirement"/>
+    </bindings>
+    <bindings scd="~tns:PublishRequirement">
+      <class ref="org.example.requirements.PublishRequirement"/>
+    </bindings>
+    <bindings scd="~tns:EnsuringRequirement">
+      <class ref="org.example.requirements.EnsuringRequirement"/>
+    </bindings>
+    <bindings scd="~tns:DesignGoalRequirement">
+      <class ref="org.example.requirements.DesignGoalRequirement"/>
+    </bindings>
+    <bindings scd="~tns:ProvisioningDesignGoalRequirement">
+      <class ref="org.example.requirements.ProvisioningDesignGoalRequirement"/>
+    </bindings>
+    <bindings scd="~tns:AvoidingEventDesignRequirement">
+      <class ref="org.example.requirements.AvoidingEventDesignRequirement"/>
+    </bindings>
+    <bindings scd="~tns:DefinitionRequirement">
+      <class ref="org.example.requirements.DefinitionRequirement"/>
+    </bindings>
+    <bindings scd="~tns:MaintenanceRequirement">
+      <class ref="org.example.requirements.MaintenanceRequirement"/>
+    </bindings>
+    <bindings scd="~tns:ImplementationRequirement">
+      <class ref="org.example.requirements.ImplementationRequirement"/>
+    </bindings>
+    <bindings scd="~tns:CommunicationRequirement">
+      <class ref="org.example.requirements.CommunicationRequirement"/>
+    </bindings>
+    <bindings scd="~tns:VerificationRequirement">
+      <class ref="org.example.requirements.VerificationRequirement"/>
+    </bindings>
+    <bindings scd="~tns:ValidationRequirement">
+      <class ref="org.example.requirements.ValidationRequirement"/>
+    </bindings>
+    <bindings scd="~tns:IdentificationRequirement">
+      <class ref="org.example.requirements.IdentificationRequirement"/>
+    </bindings>
+    <bindings scd="~tns:MonitoringRequirement">
+      <class ref="org.example.requirements.MonitoringRequirement"/>
+    </bindings>
+    <bindings scd="~tns:MitigationRequirement">
+      <class ref="org.example.requirements.MitigationRequirement"/>
+    </bindings>
+    <bindings scd="~tns:FollowingRequirement">
+      <class ref="org.example.requirements.FollowingRequirement"/>
+    </bindings>
+    <bindings scd="~tns:ManagingRequirement">
+      <class ref="org.example.requirements.ManagingRequirement"/>
+    </bindings>
+    <bindings scd="~tns:EstablishmentRequirement">
+      <class ref="org.example.requirements.EstablishmentRequirement"/>
+    </bindings>
+    <bindings scd="~tns:EvaluationRequirement">
+      <class ref="org.example.requirements.EvaluationRequirement"/>
+    </bindings>
+    <bindings scd="~tns:ConsiderationRequirement">
+      <class ref="org.example.requirements.ConsiderationRequirement"/>
+    </bindings>
+    <bindings scd="~tns:PerformingRequirement">
+      <class ref="org.example.requirements.PerformingRequirement"/>
+    </bindings>
+    <bindings scd="~tns:ProhibitedPerformingRequirement">
+      <class ref="org.example.requirements.ProhibitedPerformingRequirement"/>
+    </bindings>
+    <bindings scd="~tns:ConfirmationRequirement">
+      <class ref="org.example.requirements.ConfirmationRequirement"/>
+    </bindings>
+    <bindings scd="~tns:CollaborationRequirement">
+      <class ref="org.example.requirements.CollaborationRequirement"/>
+    </bindings>
+    <bindings scd="~tns:ImplementCommunicationRequirement">
+      <class ref="org.example.requirements.ImplementCommunicationRequirement"/>
+    </bindings>
+    <bindings scd="~tns:ProhibitedImplementationRequirement">
+      <class ref="org.example.requirements.ProhibitedImplementationRequirement"/>
+    </bindings>
+    <bindings scd="~tns:OrganizationPropertyRequirement">
+      <class ref="org.example.requirements.OrganizationPropertyRequirement"/>
+    </bindings>
+    <bindings scd="~tns:OrganizationRequirement">
+      <class ref="org.example.requirements.OrganizationRequirement"/>
+    </bindings>
+    <bindings scd="~tns:OrganizationControlRequirement">
+      <class ref="org.example.requirements.OrganizationControlRequirement"/>
+    </bindings>
+    <bindings scd="~tns:ArchivalRequirement">
+      <class ref="org.example.requirements.ArchivalRequirement"/>
+    </bindings>
+    <bindings scd="~tns:DeterminationRequirement">
+      <class ref="org.example.requirements.DeterminationRequirement"/>
+    </bindings>
+    <bindings scd="~tns:InformationCollectionRequirement">
+      <class ref="org.example.requirements.InformationCollectionRequirement"/>
+    </bindings>
+    <bindings scd="~tns:DemonstrationRequirement">
+      <class ref="org.example.requirements.DemonstrationRequirement"/>
+    </bindings>
+    <bindings scd="~tns:FacilitationRequirement">
+      <class ref="org.example.requirements.FacilitationRequirement"/>
+    </bindings>
+    <bindings scd="~tns:ProtectionRequirement">
+      <class ref="org.example.requirements.ProtectionRequirement"/>
+    </bindings>
+    <bindings scd="~tns:DefenceAgainstRequirement">
+      <class ref="org.example.requirements.DefenceAgainstRequirement"/>
+    </bindings>
+    <bindings scd="~tns:ComponentContent">
+      <class ref="org.example.requirements.ComponentContent"/>
+    </bindings>
+    <bindings scd="~tns:StorageComponentContent">
+      <class ref="org.example.requirements.StorageComponentContent"/>
+    </bindings>
+    <bindings scd="~tns:AbstractContent">
+      <class ref="org.example.requirements.AbstractContent"/>
+    </bindings>
+    <bindings scd="~tns:Content">
+      <class ref="org.example.requirements.Content"/>
+    </bindings>
+    <bindings scd="~tns:Password">
+      <class ref="org.example.requirements.Password"/>
+    </bindings>
+    <bindings scd="~tns:Record">
+      <class ref="org.example.requirements.Record"/>
+    </bindings>
+    <bindings scd="~tns:Role">
+      <class ref="org.example.requirements.Role"/>
+    </bindings>
+    <bindings scd="~tns:Skill">
+      <class ref="org.example.requirements.Skill"/>
+    </bindings>
+    <bindings scd="~tns:Threat">
+      <class ref="org.example.requirements.Threat"/>
+    </bindings>
+    <bindings scd="~tns:Assurance">
+      <class ref="org.example.requirements.Assurance"/>
+    </bindings>
+    <bindings scd="~tns:Usage">
+      <class ref="org.example.requirements.Usage"/>
+    </bindings>
+    <bindings scd="~tns:Evidence">
+      <class ref="org.example.requirements.Evidence"/>
+    </bindings>
+    <bindings scd="~tns:Verification">
+      <class ref="org.example.requirements.Verification"/>
+    </bindings>
+    <bindings scd="~tns:ExplanationOff">
+      <class ref="org.example.requirements.ExplanationOff"/>
+    </bindings>
+    <bindings scd="~tns:Principle">
+      <class ref="org.example.requirements.Principle"/>
+    </bindings>
+    <bindings scd="~tns:AbstractDecision">
+      <class ref="org.example.requirements.AbstractDecision"/>
+    </bindings>
+    <bindings scd="~tns:AbstractVulnerability">
+      <class ref="org.example.requirements.AbstractVulnerability"/>
+    </bindings>
+    <bindings scd="~tns:Vulnerability">
+      <class ref="org.example.requirements.Vulnerability"/>
+    </bindings>
+    <bindings scd="~tns:Decision">
+      <class ref="org.example.requirements.Decision"/>
+    </bindings>
+    <bindings scd="~tns:TradeOff">
+      <class ref="org.example.requirements.TradeOff"/>
+    </bindings>
+    <bindings scd="~tns:Documentation">
+      <class ref="org.example.requirements.Documentation"/>
+    </bindings>
+    <bindings scd="~tns:Analysis">
+      <class ref="org.example.requirements.Analysis"/>
+    </bindings>
+    <bindings scd="~tns:PhaseInformation">
+      <class ref="org.example.requirements.PhaseInformation"/>
+    </bindings>
+    <bindings scd="~tns:Regulation">
+      <class ref="org.example.requirements.Regulation"/>
+    </bindings>
+    <bindings scd="~tns:Objective">
+      <class ref="org.example.requirements.Objective"/>
+    </bindings>
+    <bindings scd="~tns:RegulationApplication">
+      <class ref="org.example.requirements.RegulationApplication"/>
+    </bindings>
+    <bindings scd="~tns:Practice">
+      <class ref="org.example.requirements.Practice"/>
+    </bindings>
+    <bindings scd="~tns:Policy">
+      <class ref="org.example.requirements.Policy"/>
+    </bindings>
+    <bindings scd="~tns:AbstractPractice">
+      <class ref="org.example.requirements.AbstractPractice"/>
+    </bindings>
+    <bindings scd="~tns:AbstractProcess">
+      <class ref="org.example.requirements.AbstractProcess"/>
+    </bindings>
+    <bindings scd="~tns:Process">
+      <class ref="org.example.requirements.Process"/>
+    </bindings>
+    <bindings scd="~tns:Compliance">
+      <class ref="org.example.requirements.Compliance"/>
+    </bindings>
+    <bindings scd="~tns:Information_For">
+      <class ref="org.example.requirements.InformationFor"/>
+    </bindings>
+    <bindings scd="~tns:AccessComponent">
+      <class ref="org.example.requirements.AccessComponent"/>
+    </bindings>
+    <bindings scd="~tns:ContentImplementation">
+      <class ref="org.example.requirements.ContentImplementation"/>
+    </bindings>
+    <bindings scd="~tns:ContentProperty">
+      <class ref="org.example.requirements.ContentProperty"/>
+    </bindings>
+    <bindings scd="~tns:GeneralEvent">
+      <class ref="org.example.requirements.GeneralEvent"/>
+    </bindings>
+    <bindings scd="~tns:Event">
+      <class ref="org.example.requirements.Event"/>
+    </bindings>
+    <bindings scd="~tns:OutOfBoundariesEvent">
+      <class ref="org.example.requirements.OutOfBoundariesEvent"/>
+    </bindings>
+    <bindings scd="~tns:DecommissioningEvent">
+      <class ref="org.example.requirements.DecommissioningEvent"/>
+    </bindings>
+    <bindings scd="~tns:AttackEvent">
+      <class ref="org.example.requirements.AttackEvent"/>
+    </bindings>
+    <bindings scd="~tns:CorruptionEvent">
+      <class ref="org.example.requirements.CorruptionEvent"/>
+    </bindings>
+    <bindings scd="~tns:CompromissionEvent">
+      <class ref="org.example.requirements.CompromissionEvent"/>
+    </bindings>
+    <bindings scd="~tns:SafetyRelatedIncident">
+      <class ref="org.example.requirements.SafetyRelatedIncident"/>
+    </bindings>
+    <bindings scd="~tns:SecurityRelatedIncident">
+      <class ref="org.example.requirements.SecurityRelatedIncident"/>
+    </bindings>
+    <bindings scd="~tns:ActionPerformedEvent">
+      <class ref="org.example.requirements.ActionPerformedEvent"/>
+    </bindings>
+    <bindings scd="~tns:DisclosureEvent">
+      <class ref="org.example.requirements.DisclosureEvent"/>
+    </bindings>
+    <bindings scd="~tns:SuccessEvent">
+      <class ref="org.example.requirements.SuccessEvent"/>
+    </bindings>
+    <bindings scd="~tns:FailureEvent">
+      <class ref="org.example.requirements.FailureEvent"/>
+    </bindings>
+    <bindings scd="~tns:ChangeEvent">
+      <class ref="org.example.requirements.ChangeEvent"/>
+    </bindings>
+    <bindings scd="~tns:ContentIdentificationEvent">
+      <class ref="org.example.requirements.ContentIdentificationEvent"/>
+    </bindings>
+    <bindings scd="~tns:When">
+      <class ref="org.example.requirements.When"/>
+    </bindings>
+    <bindings scd="~tns:using_type">
+      <class ref="org.example.requirements.UsingType"/>
+    </bindings>
+    <bindings scd="~tns:Requirement">
+      <class ref="org.example.requirements.Requirement"/>
+    </bindings>
+    <bindings scd="~tns:Actor">
+      <class ref="org.example.requirements.Actor"/>
+    </bindings>
+    <bindings scd="~tns:action">
+      <class ref="org.example.requirements.Action"/>
+    </bindings>
+    <bindings scd="~tns:GoalToChangeType">
+      <class ref="org.example.requirements.GoalToChangeType"/>
+    </bindings>
+    <bindings scd="~tns:GoalToAvoidEventType">
+      <class ref="org.example.requirements.GoalToAvoidEventType"/>
+    </bindings>
+    <bindings scd="~tns:GoalToEnsurePropertyType">
+      <class ref="org.example.requirements.GoalToEnsurePropertyType"/>
+    </bindings>
+    <bindings scd="~tns:GoalToConsiderContentType">
+      <class ref="org.example.requirements.GoalToConsiderContentType"/>
+    </bindings>
+    <bindings scd="~tns:GoalToAlertType">
+      <class ref="org.example.requirements.GoalToAlertType"/>
+    </bindings>
+    <bindings scd="~tns:GoalToAutoPerformActionType">
+      <class ref="org.example.requirements.GoalToAutoPerformActionType"/>
+    </bindings>
+    <bindings scd="~tns:GoalToAllowActionType">
+      <class ref="org.example.requirements.GoalToAllowActionType"/>
+    </bindings>
+    <bindings scd="~tns:GoalToProhibitActionType">
+      <class ref="org.example.requirements.GoalToProhibitActionType"/>
+    </bindings>
+    <bindings scd="~tns:GoalToComplyWithRequirementsType">
+      <class ref="org.example.requirements.GoalToComplyWithRequirementsType"/>
+    </bindings>
+    <bindings scd="~tns:Goal">
+      <class ref="org.example.requirements.Goal"/>
+    </bindings>
+    <bindings scd="~tns:Means_For">
+      <class ref="org.example.requirements.MeansFor"/>
+    </bindings>
+    <bindings scd="~tns:GeneralizedRequirement">
+      <class ref="org.example.requirements.GeneralizedRequirement"/>
+    </bindings>
+    <bindings scd="~tns:Device">
+      <class ref="org.example.requirements.Device"/>
+    </bindings>
+    <bindings scd="~tns:Risk">
+      <class ref="org.example.requirements.Risk"/>
+    </bindings>
+    <bindings scd="~tns:Hazard">
+      <class ref="org.example.requirements.Hazard"/>
+    </bindings>
+    <bindings scd="~tns:Change">
+      <class ref="org.example.requirements.Change"/>
+    </bindings>
+    <bindings scd="~tns:RequirementOrigins">
+      <class ref="org.example.requirements.RequirementOrigins"/>
+    </bindings>
+    <bindings scd="~tns:ClauseOrigin">
+      <class ref="org.example.requirements.ClauseOrigin"/>
+    </bindings>
+    <bindings scd="~tns:GeneralContent">
+      <class ref="org.example.requirements.GeneralContent"/>
+    </bindings>
+    <bindings scd="~tns:Capacity">
+      <class ref="org.example.requirements.Capacity"/>
+    </bindings>
+    <bindings scd="~tns:Author">
+      <class ref="org.example.requirements.Author"/>
+    </bindings>
+    <bindings scd="~tns:Phase">
+      <class ref="org.example.requirements.Phase"/>
+    </bindings>
+    <bindings scd="~tns:Standard">
+      <class ref="org.example.requirements.Standard"/>
+    </bindings>
+    <bindings scd="~tns:AbstractAction">
+      <class ref="org.example.requirements.AbstractAction"/>
+    </bindings>
+    <bindings scd="~tns:CVE">
+      <class ref="org.example.requirements.CVE"/>
+    </bindings>
+  </bindings>
+</bindings>
+

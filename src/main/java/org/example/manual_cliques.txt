@@ -1,0 +1,238 @@
+Maximal cliques for instance Policy :
+First clique: [risk management policy]
+Other clique: [vulnerability handling policy, vulnerability disclosure policy in line with ISO_IEC 29147]
+Other clique: [information security policy, topic-specific policy on user endpoint device security]
+Other clique: [access control policy]
+
+Maximal cliques for instance Assurance :
+First clique: [assurance for electronic components]
+Other clique: [medical it-network decommissioning assurance case report]
+
+Maximal cliques for instance ActionPerformedEvent :
+First clique: [credential removal event]
+Other clique: [making remote settings changes event]
+Other clique: [performing unauthorized bootstraping event]
+Other clique: [accessing restricted resource event, unauthorized processing for secondary usage event]
+Other clique: [exchanging data event]
+
+Maximal cliques for instance ContentIdentificationEvent :
+First clique: [new hazard identification, vulnerability identified event]
+
+Maximal cliques for instance Compliance :
+First clique: [compliance with risk management process]
+Other clique: [compliance with 80001-1]
+
+Maximal cliques for instance Information_For :
+First clique: [connectivity troubleshooting information]
+Other clique: [data backup instructions]
+Other clique: [risk-relevant information on the medical it-network]
+Other clique: [training material to perform assigned function]
+Other clique: [collected information regarding safety]
+Other clique: [information security]
+Other clique: [information regarding safe]
+
+Maximal cliques for instance Standard :
+First clique: [standard, ISO 27001, regulation for market placement]
+Other clique: [law, regulation for market placement]
+
+Maximal cliques for instance Process :
+First clique: [iterative vulnerability assessment process, risk management process that includes arrangements for user access, risk management process, risk management activity, risk management process that facilitate the comparison with similar network, formal risk assessment process, risk management process that describe the risk management activities, well-known risk assessment framework, medical it-network risk management process]
+Other clique: [iterative vulnerability assessment process, risk management process that includes arrangements for user access, risk management process, risk management process that facilitate the comparison with similar network, formal risk assessment process, information security risk treatment process, information security risk assessment process, risk management process that describe the risk management activities, medical it-network risk management process]
+Other clique: [iterative vulnerability assessment process, risk management process that includes arrangements for user access, risk management process, risk management process that facilitate the comparison with similar network, formal risk assessment process, information security risk assessment process, risk management process that describe the risk management activities, well-known risk assessment framework, medical it-network risk management process]
+Other clique: [iterative vulnerability assessment process, information security risk treatment plan, risk management activity, information security process, risk management plan]
+Other clique: [iterative vulnerability assessment process, information security risk treatment plan, information security risk treatment process, information security risk assessment process, information security process, risk management plan]
+Other clique: [iterative vulnerability assessment process, risk management process that includes arrangements for user access, risk management process, risk management activity, patch management process for medical devices, medical it-network risk management process, risk management plan]
+Other clique: [iterative vulnerability assessment process, risk management process that includes arrangements for user access, risk management process, mitigation addressing plan, patch management process for medical devices, risk management plan, patch management process for operating environment]
+Other clique: [iterative vulnerability assessment process, risk management process that includes arrangements for user access, risk management process, information security risk treatment process, patch management process for medical devices, medical it-network risk management process, risk management plan, patch management process for operating environment]
+Other clique: [iterative vulnerability assessment process, mitigation addressing plan, patch management process for medical devices, change management process]
+Other clique: [iterative vulnerability assessment process, information security risk treatment plan, risk management process that includes arrangements for user access, risk management process, risk management activity, issue addressing plan, risk management plan]
+Other clique: [iterative vulnerability assessment process, information security risk treatment plan, risk management process that includes arrangements for user access, risk management process, risk management activity, risk management process that facilitate the comparison with similar network, well-known risk assessment framework, medical it-network risk management process, risk management plan]
+Other clique: [iterative vulnerability assessment process, information security risk treatment plan, risk management process that includes arrangements for user access, risk management process, issue addressing plan, information security risk treatment process, risk management plan]
+Other clique: [iterative vulnerability assessment process, information security risk treatment plan, risk management process that includes arrangements for user access, risk management process, risk management process that facilitate the comparison with similar network, information security risk treatment process, information security risk assessment process, medical it-network risk management process, risk management plan]
+Other clique: [iterative vulnerability assessment process, information security risk treatment plan, risk management process that includes arrangements for user access, risk management process, risk management process that facilitate the comparison with similar network, information security risk assessment process, well-known risk assessment framework, medical it-network risk management process, risk management plan]
+Other clique: [iterative vulnerability assessment process, post-market surveillance plan, risk management activity, risk management plan]
+Other clique: [iterative vulnerability assessment process, risk management process that includes arrangements for user access, risk management process, issue addressing plan, mitigation addressing plan, risk management plan, patch management process for operating environment]
+Other clique: [iterative vulnerability assessment process, risk management process that includes arrangements for user access, risk management process, risk management process that facilitate the comparison with similar network, mitigation addressing plan, risk management plan, patch management process for operating environment]
+Other clique: [iterative vulnerability assessment process, risk management process that includes arrangements for user access, risk management process, issue addressing plan, information security risk treatment process, risk management plan, patch management process for operating environment]
+Other clique: [iterative vulnerability assessment process, risk management process that includes arrangements for user access, risk management process, risk management process that facilitate the comparison with similar network, information security risk treatment process, medical it-network risk management process, risk management plan, patch management process for operating environment]
+Other clique: [iterative vulnerability assessment process, risk management process that includes arrangements for user access, risk management process, risk management process that facilitate the comparison with similar network, well-known risk assessment framework, medical it-network risk management process, risk management plan, patch management process for operating environment]
+Other clique: [iterative vulnerability assessment process, information security risk treatment plan, risk management process that includes arrangements for user access, risk management process, risk management activity, risk management process that facilitate the comparison with similar network, risk management process that describe the risk management activities, well-known risk assessment framework, medical it-network risk management process]
+Other clique: [iterative vulnerability assessment process, information security risk treatment plan, risk management process that includes arrangements for user access, risk management process, risk management process that facilitate the comparison with similar network, information security risk treatment process, information security risk assessment process, risk management process that describe the risk management activities, medical it-network risk management process]
+Other clique: [iterative vulnerability assessment process, information security risk treatment plan, risk management process that includes arrangements for user access, risk management process, risk management process that facilitate the comparison with similar network, information security risk assessment process, risk management process that describe the risk management activities, well-known risk assessment framework, medical it-network risk management process]
+Other clique: [iterative vulnerability assessment process, post-market surveillance plan, change management procedure]
+Other clique: [iterative vulnerability assessment process, change management procedure, change management process]
+Other clique: [iterative vulnerability assessment process, change management procedure, patch management process for operating environment]
+Other clique: [iterative vulnerability assessment process, risk management process that includes arrangements for user access, risk management process, issue addressing plan, plan to achieving information security objective, mitigation addressing plan, patch management process for operating environment]
+Other clique: [iterative vulnerability assessment process, risk management process that includes arrangements for user access, risk management process, plan to achieving information security objective, risk management process that facilitate the comparison with similar network, mitigation addressing plan, risk management process that describe the risk management activities, patch management process for operating environment]
+Other clique: [iterative vulnerability assessment process, risk management process that includes arrangements for user access, risk management process, issue addressing plan, plan to achieving information security objective, information security risk treatment process, patch management process for operating environment]
+Other clique: [iterative vulnerability assessment process, information security risk treatment process, post-market security information gathering process]
+Other clique: [iterative vulnerability assessment process, risk management process that includes arrangements for user access, risk management process, plan to achieving information security objective, risk management process that facilitate the comparison with similar network, information security risk treatment process, information security risk assessment process, risk management process that describe the risk management activities, security testing process, medical it-network risk management process]
+Other clique: [iterative vulnerability assessment process, risk management process that includes arrangements for user access, risk management process, plan to achieving information security objective, risk management process that facilitate the comparison with similar network, information security risk treatment process, risk management process that describe the risk management activities, medical it-network risk management process, patch management process for operating environment]
+Other clique: [iterative vulnerability assessment process, post-market security information gathering process, post-market analysis process]
+Other clique: [iterative vulnerability assessment process, risk management process that includes arrangements for user access, risk management process, plan to achieving information security objective, risk management process that facilitate the comparison with similar network, information security risk assessment process, risk management process that describe the risk management activities, security testing process, well-known risk assessment framework, medical it-network risk management process]
+Other clique: [iterative vulnerability assessment process, risk management process that includes arrangements for user access, risk management process, plan to achieving information security objective, risk management process that facilitate the comparison with similar network, risk management process that describe the risk management activities, well-known risk assessment framework, medical it-network risk management process, patch management process for operating environment]
+Other clique: [iterative vulnerability assessment process, risk management process that facilitate the comparison with similar network, medical it-network risk management process, post-market analysis process]
+Other clique: [decommissioning procedure, compensating medical it-network decommissioning process]
+Other clique: [decomissioning method, decommissioning procedure]
+Other clique: [plan for the connection of medical device, patch management process for medical devices]
+Other clique: [patient safety process, safety event management process]
+Other clique: [process to validate suppliers, regulatory process for placing MDSW on market]
+Other clique: [process to validate suppliers, supply chain process to move device into inventory]
+Other clique: [full device software update process, mitigation addressing plan, patch management process for medical devices, change management process]
+Other clique: [full device software update process, mitigation addressing plan, patch management process for medical devices, patch management process for operating environment]
+Other clique: [risk management process, risk management activity, compensating medical it-network decommissioning process, well-known risk assessment framework, medical it-network risk management process, risk management plan]
+Other clique: [risk management process, information security risk treatment process, compensating medical it-network decommissioning process, medical it-network risk management process, risk management plan]
+Other clique: [change management procedure, compensating medical it-network decommissioning process]
+Other clique: [risk management process, compensating medical it-network decommissioning process, medical it-network risk management process, process which apply to medical IT-network]
+Other clique: [Technical User Interface Verification Plan]
+Other clique: [information security risk treatment plan, full device software update process]
+Other clique: [risk management process that includes arrangements for user access, risk management process, risk management activity, existing asset management processes, medical it-network risk management process]
+Other clique: [process to obtain privacy feedback, post-market security information gathering process]
+Other clique: [full device software update process, safety event management process]
+Other clique: [plan for audits with tester, security testing process, privacy failure detection process]
+Other clique: [plan for audits with tester, privacy failure detection process, post-market analysis process]
+Other clique: [risk management process that includes arrangements for user access, risk management process, issue addressing plan, safety event management process]
+Other clique: [safety event management process, post-market analysis process]
+Other clique: [risk management process that includes arrangements for user access, risk management process, information security risk treatment process, security testing process, medical it-network risk management process, privacy failure detection process]
+Other clique: [receiving information from stakeholder plan, post-market security information gathering process, post-market analysis process]
+Other clique: [PKI certificate provisioning process]
+Other clique: [risk management process that includes arrangements for user access, risk management process, security testing process, well-known risk assessment framework, medical it-network risk management process, privacy failure detection process]
+Other clique: [medical it-network risk management process, privacy failure detection process, post-market analysis process]
+Other clique: [risk management process, plan to achieving information security objective, medical it-network risk management process, process which apply to medical IT-network, patch management process for operating environment]
+Other clique: [plan for assurance activities with tester]
+
+
+
+
+Maximal cliques for instance CompromissionEvent :
+First clique: [safety compromission due to erroneous data event]
+Other clique: [privacy breach event, user data compromise event]
+Other clique: [breach of authenticity or integrity detected, cryptographic function compromission event]
+Other clique: [user data compromise event, cryptographic function compromission event]
+
+Maximal cliques for instance SecurityRelatedIncident :
+First clique: [security incident event, cybersecurity incident event]
+
+Maximal cliques for instance SafetyRelatedIncident :
+First clique: [safety related incident, safety incident resolution event, safety incident event, safety-related incident, medical it-network safety incident event, safety event]
+Other clique: [safety related incident, safety incident event, safety-related incident, safety alert event, medical it-network safety incident event, safety event]
+
+Maximal cliques for instance TradeOff :
+First clique: [risk-benefit of security features, risk-benefit]
+Other clique: [trade off between identified risk]
+
+Maximal cliques for instance AttackEvent :
+First clique: [privacy breach event, intrusion, security incident event, data leakage]
+Other clique: [privacy breach event, intrusion, security incident event, access attack event]
+Other clique: [privacy breach event, security incident event, user enumeration]
+Other clique: [tampering event, downgrade attack event, tempering detection event, access attack event]
+Other clique: [intrusion, security incident event, downgrade attack event, access attack event]
+Other clique: [security incident event, downgrade attack event, tempering detection event, access attack event]
+Other clique: [security incident event, session ID guessing attack, brute force attack]
+Other clique: [security incident event, session ID guessing attack, data leakage]
+Other clique: [security incident event, brute force attack, access attack event]
+Other clique: [security incident event, application identification]
+Other clique: [security incident event, tempering detection event, physical access attack event, access attack event]
+Other clique: [security incident event, side-channel attack, access attack event]
+
+Maximal cliques for instance Hazard :
+First clique: [hazardous situation, identified hazard, new hazard created by risk control measure, hazard]
+
+Maximal cliques for instance DisclosureEvent :
+First clique: [key disclosure event, disclosing private key, privacy failure event]
+
+Maximal cliques for instance Usage :
+First clique: [usage of PII]
+Other clique: [usage of PHI]
+
+Maximal cliques for instance AbstractProcess :
+First clique: [use case methodology]
+Other clique: [process, lifecycle process, end to end process within the healthcare delivery organization]
+Other clique: [process, end to end process within the healthcare delivery organization, process for operating environment]
+Other clique: [process, end to end process within the healthcare delivery organization, formal requirement process]
+Other clique: [process, composite service behavior model]
+Other clique: [process, open standards-based nomenclature]
+Other clique: [process, internal post-resolution activity]
+Other clique: [process, external post-resolution activity]
+
+Maximal cliques for instance Device :
+First clique: [device associated to multiple users]
+Other clique: [device in need of preventative maintenance]
+Other clique: [CIoT device, device]
+Other clique: [device not requirering existing sytems]
+Other clique: [off-label device]
+Other clique: [device with multiple identitifer through its lifecycle]
+Other clique: [susceptible device]
+Other clique: [outlier devices in need of updating]
+
+Maximal cliques for instance Documentation :
+First clique: [medical it-network risk management file, risk management plan]
+Other clique: [documented information of external origin]
+Other clique: [unnecessary documentation]
+Other clique: [instruction, manufacturer documentation regarding connection to network]
+Other clique: [documented information of internal origin]
+Other clique: [assurance case report]
+Other clique: [periodic reporting]
+
+Maximal cliques for instance DecommissioningEvent :
+First clique: [decommissioning event, medical it-network removal event, medical it-network decommissioning]
+Other clique: [identity assertion timeout event]
+
+Maximal cliques for instance Vulnerability :
+First clique: [security vulnerability of the medical it-network, vulnerability, CIoT vulnerability]
+
+Maximal cliques for instance Principle :
+First clique: [principles for engineering secure systems, principle for engineering secure systems]
+
+Maximal cliques for instance Decision :
+First clique: [reasons for residual risk acceptance, decision from top management regarding residual risk]
+Other clique: [risk-benefit decision, decision regarding requirement, decisions based on collected information regarding safety]
+Other clique: [decision from top management regarding residual risk, decisions based on collected information regarding safety]
+Other clique: [symmetric encryption implementation justification]
+
+Maximal cliques for instance Role :
+First clique: [interest conflicted privacy role]
+Other clique: [role, security role, roles required to meet standards]
+
+Maximal cliques for instance RegulationApplication :
+First clique: [vulnerability handling policy in line with ISO_IEC 30111]
+Other clique: [decisions for compliance with SEMI T20]
+
+Maximal cliques for instance Objective :
+First clique: [information security objectives at relevant functions, information security objective]
+
+Maximal cliques for instance AbstractVulnerability :
+First clique: [vulnerability without an adequate solution, vulnerability]
+
+Maximal cliques for instance ExplanationOff :
+First clique: [rationale of any risk-benefit decision, justification for not identifying hazard, justification for omission of a security capability]
+Other clique: [explanation of off-label device]
+
+Maximal cliques for instance ChangeEvent :
+First clique: [risk increase event]
+Other clique: [medical IT-network change event, change to existing medical IT-network event, medical it-network modification event]
+Other clique: [information processing facility change event, medical it-network modification event]
+Other clique: [information processing facility change event, risk control measure modification event]
+Other clique: [software update modifies basic system functionality event, risk control measure modification event]
+Other clique: [session flagged as inactive event]
+Other clique: [device added to CIoT system event, device status changed event]
+
+Maximal cliques for instance Analysis :
+First clique: [risk-benefit analysis of security features, risk-benefit analysis, risk analysis]
+Other clique: [Safety Risk Analysis, risk-benefit analysis, risk analysis]
+Other clique: [analysis of changes made to the device]
+
+Maximal cliques for instance OutOfBoundariesEvent :
+First clique: [critical data type out-of bound reading event, data out of range]
+Other clique: [patient data out of boundaries event, data out of range]
+Other clique: [inconsistent device location provided]
+
+Maximal cliques for instance Author :
+First clique: [system administrator]
+Other clique: [provider, solution provider]
+Other clique: [solution provider, manufacturer]
+Other clique: [top management]
+Other clique: [user]
+
+Maximal cliques for instance Threat :
+First clique: [identified threat without an adequate solution, threat]
